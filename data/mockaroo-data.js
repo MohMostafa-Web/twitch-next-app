@@ -1,0 +1,96 @@
+export const recommeded_channels = [
+  {
+    id: 1,
+    avatar: "https://robohash.org/nondelenitiquam.png?size=50x50&set=set1",
+    username: "emcbay0",
+    category: "Opela",
+    viewers_count: 88938,
+  },
+  {
+    id: 2,
+    avatar: "https://robohash.org/voluptatibusquamminus.png?size=50x50&set=set1",
+    username: "alambricht1",
+    category: "Greenlam",
+    viewers_count: 19317,
+  },
+  {
+    id: 3,
+    avatar: "https://robohash.org/autquiaspernatur.png?size=50x50&set=set1",
+    username: "ctrollope2",
+    category: "Fixflex",
+    viewers_count: 27477,
+  },
+  {
+    id: 4,
+    avatar: "https://robohash.org/temporautsunt.png?size=50x50&set=set1",
+    username: "cvlies3",
+    category: "Stringtough",
+    viewers_count: 21236,
+  },
+  {
+    id: 5,
+    avatar: "https://robohash.org/aliquidtotamnihil.png?size=50x50&set=set1",
+    username: "bwillment4",
+    category: "Span",
+    viewers_count: 59159,
+  },
+  {
+    id: 6,
+    avatar: "https://robohash.org/autestnatus.png?size=50x50&set=set1",
+    username: "shartas5",
+    category: "Bitwolf",
+    viewers_count: 77852,
+  },
+  {
+    id: 7,
+    avatar: "https://robohash.org/suntliberoalias.png?size=50x50&set=set1",
+    username: "slarmett6",
+    category: "Veribet",
+    viewers_count: 7632,
+  },
+  {
+    id: 8,
+    avatar: "https://robohash.org/rerumpossimusblanditiis.png?size=50x50&set=set1",
+    username: "ldowker7",
+    category: "Biodex",
+    viewers_count: 85215,
+  },
+  {
+    id: 9,
+    avatar: "https://robohash.org/officiisundeperferendis.png?size=50x50&set=set1",
+    username: "lbinestead8",
+    category: "Sonair",
+    viewers_count: 9601,
+  },
+  {
+    id: 10,
+    avatar: "https://robohash.org/autemlaborequia.png?size=50x50&set=set1",
+    username: "lhairyes9",
+    category: "Tres-Zap",
+    viewers_count: 67889,
+  },
+];
+
+export const top_channels = [
+  {
+    id: 1,
+    avatar: "https://robohash.org/molestiaedictadolores.png?size=50x50&set=set1",
+    username: "ggomar0",
+    category: "Ventosanzap",
+    viewers_count: 47765,
+  },
+  {
+    id: 2,
+    avatar: "https://robohash.org/exercitationemdoloresquas.png?size=50x50&set=set1",
+    username: "etomblin1",
+    category: "Zamit",
+    viewers_count: 43225,
+  },
+  {
+    id: 3,
+    avatar: "https://robohash.org/explicaboipsumaliquid.png?size=50x50&set=set1",
+    username: "ydowsey2",
+    category: "Zaam-Dox",
+    viewers_count: 18602,
+  },
+];

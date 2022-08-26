@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".", // Make the absolute path start from project folder
+    "paths": {
+      "/assests/*": ["public/assests/*"] // Adding alias name "/assests/*" to absolute path "public/assests/*"
+    }
+  }
+}

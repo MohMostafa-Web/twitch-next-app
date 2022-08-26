@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  @apply bg-black text-white scroll-smooth;
+}
+.sidebar {
+  scrollbar-width: thin;
+  scrollbar-color: #4b5563 #0e0e10;
+}
+.sidebar::-webkit-scrollbar {
+  @apply w-2
+}
+.sidebar::-webkit-scrollbar-thumb {
+  @apply bg-gray-600 rounded-md
+}
