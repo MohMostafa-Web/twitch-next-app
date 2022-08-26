@@ -18,7 +18,7 @@ const Sidebar = () => {
         ))}
       </div>
       <div>
-        <h3 className="hidden lg:block my-4 font-bold uppercase text-sm">
+        <h3 className="hidden lg:block px-2 my-4 font-bold uppercase text-sm">
           Top Channels
         </h3>
         <div className="block lg:hidden my-4">
