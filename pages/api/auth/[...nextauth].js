@@ -7,7 +7,7 @@ export default NextAuth({
   providers: [
     GitHubProvider({
       clientId: process.env.GITHUB_ID,
-      clientSecret: process.env.GITHUB_SECRET
+      clientSecret: process.env.GITHUB_SECRET,
     }),
     GoogleProvider({
       clientId: process.env.GOOGLE_CLIENT_ID,
@@ -15,4 +15,5 @@ export default NextAuth({
     }),
     // ...add more providers here
   ],
+  secret: process.env.NEXTAUTH_SECRET, // Required for "Production"
 });
